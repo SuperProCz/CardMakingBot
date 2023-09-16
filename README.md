@@ -1,7 +1,7 @@
 # CardMakingBot
 This is a card making bot, which will turn any image into a card with a white border and upload it to Imgur.
 
-![Obamium Card](https://imgur.com/a/88YQCaM)
+![Obamium Card](https://i.imgur.com/9NKn7DP.png)
 ## USAGE
 ```
 git clone https://github.com/SuperProCz/CardMakingBot
